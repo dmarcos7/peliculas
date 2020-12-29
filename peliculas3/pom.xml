@@ -6,7 +6,7 @@
 	<artifactId>uf2218_peliculas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>pelispruebas</name>
+	<name>Peliculas</name>
 	<description>Ejemplo de web de películas hecha con MVC y convertida a Maven</description>
 
 	<dependencies>
@@ -43,7 +43,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>3.0.3</version>
 				<configuration>
-					<appName>peliculator</appName>
+					<appName>pelispruebas</appName>
 				</configuration>
 			</plugin>
 			<plugin>
